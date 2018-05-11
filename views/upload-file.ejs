@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>File Upload</title>
+	</head>
+	<body>
+		<div class="la-anim-10"></div><!-- .corner-preloader -->
+		<div id="wrapper">
+			<div id="upload-widget">
+				<h1>
+					<i class="fa fa-cloud-upload"></i> File Uploader
+				</h1>
+ 
+				<form id="frmUploader" enctype="multipart/form-data" action="/v2/upload-file" method="post">
+                    <input type="file" name="imgUploader" multiple />
+                    <input type="submit" name="submit" id="btnSubmit" value="Upload" />
+                </form>
+			</div><!-- #upload-widget -->
+ 
+			<div id="upload-result">
+			</div><!-- #upload-result -->
+		</div><!-- #wrapper -->
+		<!-- SCRIPTS -->
+		<script src="http://localhost:3000/vendor/jquery/jquery-3.2.1.min.js"></script>
+		<script src= "http://localhost:3000/js/upload-file.js"></script>
+		<script src="http://malsup.github.com/jquery.form.js"></script>
+	</body>
+</html>

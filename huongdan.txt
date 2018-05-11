@@ -1,0 +1,11 @@
+1. lấy truyện bằng page_number :
+
+httpmethod: GET
+
+http://localhost:3000/v3/stories?page_number=?
+
+2. update view for story:
+
+httpmethod: PUT
+
+http://localhost:3000/v3/story/views?story_id=?

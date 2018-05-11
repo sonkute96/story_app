@@ -1,0 +1,1 @@
+{"solution":"Thêm thằng đó vô nữa nên có 2 tay","name":"Tay ở cửa sổ","content":"Ở một trường cấp 3, nơi học sinh học thể dục, cứ 6h lại có 1 cánh tay vẫy vẫy ở cửa sổ.\nMột học sinh thấy vậy liền đi vào trong khu vực đó.\nNgày hôm sau học sinh đó mất tích.\nNgày hôm sau nữa có 2 cái tay vẫy vẫy ở cửa sổ.."}
